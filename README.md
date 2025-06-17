@@ -1,6 +1,6 @@
 # TechCon 2024 Website Project
 
-Welcome to the **TechCon 2024 Website Project**! This project challenges you to build a fully functional multi-page website for the **TechCon 2024** conference using **pure HTML**. You'll create a structured and accessible site that provides key information and functionality for attendees and organizers.
+Welcome to the **TechCon 2024 Website Project**! This project is a fully functional multi-page website for the **TechCon 2024** conference using **pure HTML**.
 
 ## 🌐 Project Scope
 
